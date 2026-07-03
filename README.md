@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="720" src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
+  <img width="600" src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
 </p>
 
 <div align="center">
