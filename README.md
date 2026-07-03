@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub profile dashboard" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
 </p>
 
 <div align="center">
