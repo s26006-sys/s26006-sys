@@ -1,8 +1,3 @@
-
-<br>
-<br>
-
-<!-- 2. 완전히 일체화된 기술 스택 -->
 ### ✏️ Learning & Tech Stacks
 
 <p align="center">
