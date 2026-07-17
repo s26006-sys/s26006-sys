@@ -1,8 +1,3 @@
-<div align="center">
-
-<p align="center">
-  <b>매일 기록하고 꾸준히 성장하는 백엔드 개발자입니다.</b>
-</p>
 
 ---
 
