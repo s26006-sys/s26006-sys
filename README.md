@@ -1,9 +1,10 @@
 <div align="center">
 
+
 <br>
 <br>
 
-<!-- 2. 완전히 통일된 스타일의 Tech Stacks -->
+<!-- 2. 기술 스택 영역 (완벽하게 스타일이 통일된 버전) -->
 ### ✏️ Learning & Tech Stacks
 
 <p align="center">
@@ -13,6 +14,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- [수정됨] VS Code 배지 스타일을 'for-the-badge'로 변경하여 통일 -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
