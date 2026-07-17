@@ -9,7 +9,7 @@
 
 <br>
 
-## :man_tipping_hand: About Me
+## 💁‍♂️ : About Me
 
 * :coffee: **Backend**: Java / Spring Boot 기반의 확장성 있는 서버 개발을 지향합니다.
 * :package: **Database & DevOps**: MySQL로 데이터를 관리하고, Docker로 안정적인 환경을 구축합니다.
