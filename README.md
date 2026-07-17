@@ -1,7 +1,5 @@
 <div align="center">
 
-# ⚡ s26006-sys
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Junior+Back-End+Developer;Keep+Growing+Every+Day;Java+%7C+SpringBoot+%7C+MySQL" alt="Typing SVG" />
 </p>
