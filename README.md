@@ -13,6 +13,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="52" height="52" style="margin: 0 5px;"/>
 </p>
 
+<a href="https://velog.io/@da2un/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
 <br>
 
 <!-- 3D 기여도 그래프 중앙 정렬 및 여백 확보 -->
