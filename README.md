@@ -21,16 +21,3 @@
 ## 🛠️ Stack & Blog
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&eyeColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <a href="https://velog.io/@da2un/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-
-<br>
-<br>
-
-## 📈 Contribution Graph
-
-<!-- 주간 기여도 잔디 그래프 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s26006-sys&theme=react&area=true&hide_border=true" width="100%" />
-
-<br>
-
-<!-- 1년치 커밋 트렌드 능선 그래프 카드 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s26006-sys&theme=default" width="100%">
