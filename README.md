@@ -1,5 +1,5 @@
-<!-- 상단 백엔드 헤더 배너 (정적 퍼플-블루 그라데이션) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Back-end%20Developer&fontSize=50&fontColor=ffffff&gradient=1A237E,00BCD4" width="100%">
+<!-- 상단 백엔드 헤더 배너 (퍼플-블루 그라데이션) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Back-end%20Developer&fontSize=50&fontColor=ffffff&gradient=1A237E,00BCD4" width="100%">
 
 <br>
 
@@ -21,3 +21,5 @@
 ## 🛠️ Stack & Blog
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&eyeColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <a href="https://velog.io/@da2un/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
+
