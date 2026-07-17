@@ -1,17 +1,18 @@
 ## ✏️ Learning
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="40"/>
-  
-  <!-- Frameworks & Databases -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="40"/>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55" style="margin-right: 8px;"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" style="margin-right: 8px;"/>
+  <!-- Spring Boot -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="55" height="55" style="margin-right: 8px;"/>
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55" style="margin-right: 8px;"/>
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55" style="margin-right: 8px;"/>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>
 </p>
 <p align="center">
   <img width="720" src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
