@@ -1,5 +1,5 @@
 <!-- 상단 백엔드 헤더 배너 (시원한 파란색 컬러 적용) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F3E46&height=180&section=header&text=Back-end%20Developer&fontSize=50&fontColor=ffffff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Back-end%20Developer&fontSize=50&fontColor=ffffff&gradient=1A237E,00BCD4" width="100%">
 
 <br>
 
