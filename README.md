@@ -2,29 +2,22 @@
 
 ### ✏️ Learning & Tech Stacks
 
-<!-- 라이트 테마에 잘 어울리는 여백 위주의 투명 오리지널 아이콘 레이아웃 -->
+<!-- 아이콘들의 가로 정렬을 완벽하게 중앙으로 일치시킴 -->
 <p align="center">
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- Spring Boot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 0 6px;"/>
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin: 0 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="52" height="52" style="margin: 0 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="52" height="52" style="margin: 0 5px;"/>
 </p>
 
 <br>
 
-<!-- 밝은 버전의 3D 기여도 그래프 (profile-green-animate 로 변경) -->
+<!-- 3D 기여도 그래프 중앙 정렬 및 여백 확보 -->
 <p align="center">
-  <img width="720" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" />
+  <img width="720" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" style="display: block; margin: 0 auto;" />
 </p>
 
 ---
