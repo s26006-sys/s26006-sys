@@ -11,11 +11,10 @@
 
 ## 💁‍♂️ About Me
 
-> ☕ **Backend**: Java / Spring Boot 기반의 확장성 있는 서버 개발을 지향합니다.
-> 📦 **Database & DevOps**: MySQL로 데이터를 관리하고, Docker로 안정적인 환경을 구축합니다.
-> ✍️ **Blog**: <a href="https://velog.io/@da2un/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" valign="middle"/></a> 배운 것을 잊지 않기 위해 꾸준히 기록합니다.
+> ☕ **Backend**: Java / Spring Boot 기반의 확장성 있는 서버 개발을 지향합니다. <br>
+> 📦 **Database & DevOps**: MySQL로 데이터를 관리하고, Docker로 안정적인 환경을 구축합니다. <br>
+> ✍️ **Blog**: <a href="https://velog.io/@da2un/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" valign="middle"/></a> 배운 것을 잊지 않기 위해 꾸준히 기록합니다. <br>
 > ✉️ **Contact**: s26006@gsm.hs.kr
-
 <br>
 
 ## 🛠️ Stack & Blog
