@@ -1,11 +1,12 @@
-## 🛠️ Tech Stack & Blog
+## Learning.. & Blog
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,nextjs,docker,git,py&theme=dark" />
-  </a>
-  <br>
-  <a href="https://velog.io/@da2un/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" style="vertical-align: middle;"/>
+  <a href="https://velog.io/@da2un/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" height="25" style="vertical-align: middle;"/></a>
 </p>
